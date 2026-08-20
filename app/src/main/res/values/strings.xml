@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Screen Time Monitor</string>
+
+    <string name="onboarding_title">Set up monitoring</string>
+    <string name="onboarding_usage_title">Usage access</string>
+    <string name="onboarding_usage_desc">Needed to measure screen time, app usage, and Wi-Fi data usage.</string>
+    <string name="onboarding_notification_title">Notification access</string>
+    <string name="onboarding_notification_desc">Needed to count notifications as they arrive.</string>
+    <string name="onboarding_post_notif_title">Allow notifications</string>
+    <string name="onboarding_post_notif_desc">Needed to show the ongoing monitoring status notification.</string>
+    <string name="onboarding_battery_title">Ignore battery optimizations (recommended)</string>
+    <string name="onboarding_battery_desc">Keeps monitoring running reliably in the background.</string>
+    <string name="grant">Grant</string>
+    <string name="granted">Granted</string>
+    <string name="continue_label">Continue</string>
+
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_apps">Apps</string>
+    <string name="nav_history">History</string>
+    <string name="nav_settings">Settings</string>
+
+    <string name="monitoring_notification_channel_name">Monitoring status</string>
+    <string name="monitoring_notification_title">Screen Time Monitor is running</string>
+    <string name="monitoring_notification_text">Tracking screen time, Wi-Fi usage, locks and notifications</string>
+
+    <string name="today_screen_time">Today\'s screen time</string>
+    <string name="today_wifi_usage">Today\'s Wi-Fi usage</string>
+    <string name="today_locks">Locks</string>
+    <string name="today_unlocks">Unlocks</string>
+    <string name="today_notifications">Notifications</string>
+    <string name="top_apps">Top apps</string>
+
+    <string name="settings_retention">Data retention (days)</string>
+    <string name="settings_reset">Reset all data</string>
+    <string name="settings_permissions">Review permissions</string>
+</resources>
